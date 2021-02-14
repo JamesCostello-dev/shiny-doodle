@@ -1,1 +1,1 @@
-# shiny-doodle
+# CMS application using NoSQL
